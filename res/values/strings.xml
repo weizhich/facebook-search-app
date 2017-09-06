@@ -1,0 +1,14 @@
+<resources>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="app_name">Search on FB</string>
+    <string name="main_title">Enter a keyword:</string>
+    <string name="main_clear">CLEAR</string>
+    <string name="main_search">SEARCH</string>
+    <string name="slide_title">Facebook Search</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="facebook_app_id">257584944687519</string>
+</resources>
